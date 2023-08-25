@@ -1,0 +1,32 @@
+###
+GET http://localhost:3000/all
+
+###
+GET http://localhost:3000/customerEngagements
+
+###
+POST http://localhost:3000/all
+
+###
+GET http://localhost:3000/user
+
+###
+GET http://localhost:3000/abcd
+
+###
+GET http://localhost:3000/acd
+
+###
+GET http://localhost:3000/dragonfly
+
+###
+GET http://localhost:3000/birdfly
+
+###
+POST http://localhost:3000/user
+
+###
+PUT http://localhost:3000/user
+
+###
+DELETE http://localhost:3000/user
